@@ -1,6 +1,7 @@
 /**
+<<<<<<< HEAD
  * Basic Hello World Program
- *///added name, major, and minor 
+ *///added name, major, and minor
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -18,3 +19,4 @@
 
     return 0;
  }
+
