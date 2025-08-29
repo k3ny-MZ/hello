@@ -1,22 +1,18 @@
 /**
-<<<<<<< HEAD
- * Basic Hello World Program
- *///added name, major, and minor
-
+ * Author: Ben Smith
+ *         bsmith142@unl.edu
+ * Date: 2025/28/08
+ *
+ * A simple hello world program in C
+ *
+ */
 #include <stdlib.h>
 #include <stdio.h>
 
- int main(int argc, char **argv) {
+int main(int argc, char **argv) {
 
-    printf("Hello, I'm Keny Moreno!\n");
-    printf("Major is Computer Science!\n");
-    printf("Minor is none\n");
+  printf("Ben Smith\n");
+  printf("Electrical Engineering\n");
 
-    printf("Hello, I'm Ben Smith!\n");
-    printf("Major is Electrical Engineering!\n");
-    printf("Minor is Computer Science!\n");
-
-
-    return 0;
- }
-
+  return 0;
+}
