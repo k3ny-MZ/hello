@@ -3,7 +3,7 @@
  *         bsmith142@unl.edu
  * Date: 2025/28/08
  *
- * A simple hello world program in C
+ * Name and Major 
  *
  */
 #include <stdlib.h>
