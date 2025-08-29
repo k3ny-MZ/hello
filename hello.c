@@ -3,7 +3,7 @@
  *         bsmith142@unl.edu
  * Date: 2025/28/08
  *
- * Name and Major 
+ * Name and Major
  *
  */
 #include <stdlib.h>
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Ben Smith\n");
+  printf("Ben Smith!\n");
   printf("Electrical Engineering\n");
 
   return 0;
